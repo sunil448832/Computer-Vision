@@ -1,1 +1,1 @@
-# Computer-Vision algoritms implementation and projects
+# Computer-Vision algoritms implementation and project
